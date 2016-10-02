@@ -1,0 +1,5 @@
+site:
+    title: oxalorg
+    baseurl: ''
+author: oxalorg
+layout: post
